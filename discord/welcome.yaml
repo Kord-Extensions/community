@@ -54,6 +54,12 @@
 
         - <@&1121521990273081417> maintain the KordEx project itself, and are responsible for the day-to-day maintenance of it
 
+        - <@&1121538599557537792> are people that have contributed to the project's development directly
+
+        - <@&1121538855158415380> are people that have contributed to the project's translations
+
+        - <@&1121538506536271986> are people that work directly on Kord, the backing library that KordEx is based on
+
 - type: embed
   text: >- 
     ## Useful Links
@@ -63,6 +69,8 @@
   embeds:
     - color: 0x5865F2  # Blurple
       description: >-
-        - [Website](https://kordex.kotlindiscord.com)
-
+        - [Documentation](https://kordex.kotlindiscord.com/)
+        
         - [GitHub](https://github.com/Kord-Extensions/kord-extensions)
+
+        - [Translations Project](https://hosted.weblate.org/engage/kord-extensions/)
