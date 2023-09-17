@@ -4,6 +4,7 @@
 
     Welcome to the official server for Kord Extensions (KordEx), the premier Kotlin Discord bot framework. This project aims to provide a fully-featured framwork for developing your own Discord bots, with full support for everything you may need - and utilities to cover every common need.
 
+    **Note:** Questions posted in <#1153030448105128006> are indexed by <@958907348389339146>, but your consent is required before your posts may be made public. Please use `/manage-account` in <#1121533779601797150> to change your consent settings as required.
 - type: rules
   text: "## Our Rules"
 
@@ -69,6 +70,8 @@
   embeds:
     - color: 0x5865F2  # Blurple
       description: >-
+        - [Indexed Support Posts](https://www.answeroverflow.com/c/1121419906995458098)
+      
         - [Documentation](https://kordex.kotlindiscord.com/)
 
         - [GitHub](https://github.com/Kord-Extensions/kord-extensions)
