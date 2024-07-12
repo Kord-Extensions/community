@@ -4,7 +4,8 @@
 
     Welcome to the official server for Kord Extensions (KordEx), the premier Kotlin Discord bot framework. This project aims to provide a fully-featured framwork for developing your own Discord bots, with full support for everything you may need - and utilities to cover every common need.
 
-    **Note:** Questions posted in <#1153030448105128006> are indexed by <@958907348389339146>, but your consent is required before your posts may be made public. Please use `/manage-account` in <#1121533779601797150> to change your consent settings as required.
+
+    **Note:** Questions posted in <#1153030448105128006> are indexed by <@958907348389339146> and made available [here](<https://www.answeroverflow.com/c/1121419906995458098>), but your consent is required before your posts may be made public. Please use `/manage-account` in <#1121533779601797150> to change your consent settings as required.
 - type: rules
   text: "## Our Rules"
 
@@ -21,24 +22,24 @@
     Respect Other Users: >-
       This is a collaborative project, and it's important that everyone respects each other's differences and accounts for others' accessibility needs. To be more specific:
 
-      - Absolutely no bigotry will be tolerated - including, but not limited to, racism, ableism, sexism, classism, transphobia, pluralphobia and queerphobia
+      - Absolutely no bigotry will be tolerated - including, but not limited to, racism, body shaming, ableism, sexism, classism, transphobia, pluralphobia and queerphobia.
 
-      - Keep all discussions "safe for work" - sexual/lewd content (and behaviour), gore, violence and abuse content have no place in this server
+      - Keep all discussions "safe for work" - sexual/lewd content (and behaviour), gore, violence and abuse content have no place in this server.
 
-      - Likewise, there is no place here for threats or blackmail, piracy, or any other discriminatory or illegal behaviour
+      - Likewise, there is no place here for threats or blackmail, piracy, or any other discriminatory or illegal behaviour.
 
-      - Respect those that use [PluralKit](https://pluralkit.me) here, and only make use of it for [plurality](https://morethanone.info) or self-identity purposes, or as a mental health aid
+      - Respect those that use [PluralKit](https://pluralkit.me) here, and only make use of it for [plurality](https://morethanone.info) or self-identity purposes, or as a mental health aid.
 
-      - Do not post images, emotes or videos with fast-moving animations or flashing colours, or anything else that's likely to be a problem for a photosensitive user
+      - Do not post images, emotes or videos with fast-moving animations or flashing colours, or anything else that's likely to be a problem for a photosensitive user.
 
       If you need to report a problem, you can mention <@&1121521780021006466> directly in any channel, or you can send a DM to a moderator or admin. Reports will always be handled privately, and we'll do our best to protect your identity when dealing with them.
 
     Respect the Space: >-
       In order for us to do discuss things productively, it's important that you respect the Discord server. To be more specific:
 
-      - Do not spam under any circumstances - and note that this includes dumping memes into an off-topic channel, regardless of other context
+      - Do not spam under any circumstances - and note that this includes dumping memes into an off-topic channel, regardless of other context.
 
-      - Read the channel descriptions and make sure your discussions are on-topic for the channels you're using
+      - Read the channel descriptions and make sure your discussions are on-topic for the channels you're using.
 
 - type: embed
   text: >- 
@@ -49,17 +50,17 @@
   embeds:
     - color: 0x57F287  # Blurple
       description: >-
-        - <@&1121521716871565312> handle project-wide decisions and day-to-day maintenance of this server
+        - <@&1121521716871565312> handle project-wide decisions and day-to-day maintenance of this server.
 
-        - <@&1121521780021006466> handle general moderation of this server, and you can ping them if there's a situation they need to address in a channel - or DM them instead if you'd prefer
+        - <@&1121521780021006466> handle general moderation of this server, and you can ping them if there's a situation they need to address in a channel - or DM them instead if you'd prefer.
 
-        - <@&1121521990273081417> maintain the KordEx project itself, and are responsible for the day-to-day maintenance of it
+        - <@&1121521990273081417> maintain the KordEx project itself, and are responsible for the day-to-day maintenance of it.
 
-        - <@&1121538599557537792> are people that have contributed to the project's development directly
+        - <@&1121538599557537792> are people that have contributed to the project's development directly.
 
-        - <@&1121538855158415380> are people that have contributed to the project's translations
+        - <@&1121538855158415380> are people that have contributed to the project's translations.
 
-        - <@&1121538506536271986> are people that work directly on Kord, the backing library that KordEx is based on
+        - <@&1121538506536271986> are people that work directly on Kord, the backing protocol, cache and entity library that KordEx is based on.
 
 - type: embed
   text: >- 
@@ -72,8 +73,10 @@
       description: >-
         - [Indexed Support Posts](https://www.answeroverflow.com/c/1121419906995458098)
       
-        - [Documentation](https://kordex.kotlindiscord.com/)
+        - [Documentation](https://docs.kordex.dev)
 
         - [GitHub](https://github.com/Kord-Extensions/kord-extensions)
 
         - [Translations Project](https://hosted.weblate.org/engage/kord-extensions/)
+
+        - [Website](https://kordex.dev)
