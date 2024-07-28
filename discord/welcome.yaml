@@ -71,12 +71,16 @@
   embeds:
     - color: 0x5865F2  # Blurple
       description: >-
-        - [Indexed Support Posts](https://www.answeroverflow.com/c/1121419906995458098)
-      
+        - [Service Status](https://status.kordex.dev)
+    
         - [Documentation](https://docs.kordex.dev)
 
-        - [GitHub](https://github.com/Kord-Extensions/kord-extensions)
+        - [GitHub Discussions](https://github.com/orgs/Kord-Extensions/discussions)
+
+        - [Indexed Questions](https://www.answeroverflow.com/c/1121419906995458098)
 
         - [Translations Project](https://hosted.weblate.org/engage/kord-extensions/)
 
         - [Website](https://kordex.dev)
+
+        - [GitHub](https://github.com/Kord-Extensions/kord-extensions)
